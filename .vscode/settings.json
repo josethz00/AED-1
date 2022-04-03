@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    "stack.h": "c",
+    "string.h": "c",
+    "stdbool.h": "c",
+    "stack_char.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
